@@ -6,7 +6,8 @@
 
 body {
   background-color: #eafbff;
-  background-image: linear-gradient(
+  background-image:
+  linear-gradient (
     to bottom,
   #eafbff 0%,
   #eafbff 50%,
