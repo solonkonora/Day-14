@@ -70,9 +70,9 @@ nav ul a {
   background-color: #fff;
   border: 0;
   padding: 0;
- position: relative;
- height: 30px;
- width: 30px;
+  position: relative;
+  height: 30px;
+  width: 30px;
 }
 
 .icon:focus {
@@ -89,12 +89,7 @@ nav ul a {
   transition: transform 0.6s linear;
 }
 
-/* .icon .line1 {
-  top: auto;
-  bottom: 10px;
-} */
-
-.icon .line2 {
+.icon .line1 {
   top: auto;
   bottom: 10px;
 }
